@@ -1,0 +1,95 @@
+.colorfuente1{
+  color: red;
+  font-style: italic;
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.colorfuente2{
+color: green;
+font-size: 20px;
+background-color: grey;
+}
+
+.colorfuente3{
+color: white;
+font-size: 15px;
+text-align: center;
+background-color: chartreuse;
+}
+
+.button1{
+  background-color: rgb(240, 223, 31);
+  color: aliceblue;
+  border-radius: 5px;
+}
+
+.button2{
+  background-color: rgb(21, 18, 235);
+  color: aliceblue;
+  border-radius: 5px;
+}
+
+.button3{
+  background-color: rgb(244, 13, 13);
+  color: aliceblue;
+  border-radius: 5px;
+}
+
+.container1{
+  display: flex;
+  margin: 30px;
+  padding: 30px 10px 15px 15px;
+  background-color: dimgrey;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imgstyle{
+  width: 20%;
+}
+
+.container2{
+  display: flex;
+  justify-content: space-around;
+}
+
+.mainContainer{
+  display: flex;
+  width: 900px;
+  height: 400px;
+  background-color: aqua;
+  margin-left: 30px;
+}
+
+.seccion1{
+  display: flex;
+  width: 30%;
+  background-color: blue;
+  margin: 10px;
+  justify-content: center;
+}
+
+.seccion2{
+  width: 45%;
+  background-color: blue;
+  margin: 10px;
+}
+
+.seccion3{
+  width: 30%;
+  background-color: rgb(247, 247, 250);
+  margin: 10px;
+  justify-content: center;
+}
+
+.espacial{
+  display: flex;
+  margin: 30px;
+  padding: 70px 70px 70px 70px;
+  background-color: rgb(203, 232, 18);
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
